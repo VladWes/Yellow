@@ -1,7 +1,7 @@
 import sys
 from random import randrange
 from PyQt5 import uic
-from PyQt5.QtWidgets import QMainWindow, QApplication, QWidget
+from PyQt5.QtWidgets import QMainWindow, QApplication
 from PyQt5.QtGui import QPainter, QColor
 
 
